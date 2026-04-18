@@ -5,10 +5,25 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 Passionate about becoming a **Top Web Developer**
-- 💻 Currently working with **React, nextjs, Tailwind CSS**
-- 🌱 Learning **Advanced React & MERN Stack**
-- 💡 Interested in **Freelancing & Remote Jobs**
+🚀 I'm a Full-Stack Web Developer specializing in the **MERN stack**, passionate about building modern, scalable, and user-focused web applications.
+
+💻 My core strength lies in **front-end development with React & Next.js**, where I transform ideas into clean, responsive, and high-performance user interfaces.
+
+⚡ I focus on writing **maintainable code**, designing reusable components, and optimizing performance to deliver seamless user experiences.
+
+🛠️ Tech I work with:
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, Firebase
+
+🌱 Currently diving deeper into **Advanced React, performance optimization, and full-stack architecture**
+
+💡 I’m highly interested in **freelancing and remote opportunities**, where I can contribute to real-world projects and grow with strong teams.
+
+📈 I believe in **continuous learning**, improving every day, and building projects that solve real problems.
+
+🎯 Goal: To collaborate with talented developers and build impactful digital products that make a difference.
 
 ---
 

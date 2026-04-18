@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amit Paul</h1>
 <h3 align="center">🚀 Front-End Developer | MERN Stack Enthusiast</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Improving+Every+Day;React+%26+Next.js+Specialist;Building+Modern+Web+Apps&center=true&width=500&height=45">
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
